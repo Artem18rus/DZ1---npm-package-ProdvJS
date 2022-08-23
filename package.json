@@ -1,0 +1,22 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "\"Browser based game\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artem18rus/DZ1---npm-package-ProdvJS.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Artem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Artem18rus/DZ1---npm-package-ProdvJS/issues"
+  },
+  "homepage": "https://github.com/Artem18rus/DZ1---npm-package-ProdvJS#readme"
+}
